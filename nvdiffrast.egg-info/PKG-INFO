@@ -1,6 +1,10 @@
 Metadata-Version: 2.1
 Name: nvdiffrast
+<<<<<<< Updated upstream
 Version: 0.3.3
+=======
+Version: 0.3.1
+>>>>>>> Stashed changes
 Summary: nvdiffrast - modular primitives for high-performance differentiable rendering
 Home-page: https://github.com/NVlabs/nvdiffrast
 Author: Samuli Laine
@@ -25,7 +29,11 @@ Please refer to &#x261E;&#x261E; [nvdiffrast documentation](https://nvlabs.githu
 
 ## Licenses
 
+<<<<<<< Updated upstream
 Copyright &copy; 2020&ndash;2024, NVIDIA Corporation. All rights reserved.
+=======
+Copyright &copy; 2020&ndash;2023, NVIDIA Corporation. All rights reserved.
+>>>>>>> Stashed changes
 
 This work is made available under the [Nvidia Source Code License](https://github.com/NVlabs/nvdiffrast/blob/main/LICENSE.txt).
 
